@@ -164,10 +164,15 @@ text-align: center;
     margin-bottom: 15px;
 }
 .contact h5{
-    margin: 25px 0;
+    margin: 20px 0;
+}
+footer{
+    position: relative;
+    top: auto;
 }
 footer h4{
     margin-top: 60px;
     margin-bottom: 30px;
     margin-left: 20px;
+    
 }
